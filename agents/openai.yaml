@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web UI AutoTest"
+  short_description: "Single skill for Web UI automation framework and test-case rules"
+  default_prompt: "Use $web-ui-autotest to generate a Web UI automation framework skeleton, derive test cases from page structure, or record a first-practice review."
+
+policy:
+  allow_implicit_invocation: true
